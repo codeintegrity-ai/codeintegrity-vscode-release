@@ -1,0 +1,1 @@
+# codeintegrity-vscode-release
